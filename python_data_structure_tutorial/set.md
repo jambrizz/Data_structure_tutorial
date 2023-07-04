@@ -1,11 +1,11 @@
 # Sets
 
-### Introduction to Sets
+## Introduction to Sets
 
-### How Sets work
+## How Sets work
 
-### Real world applications
+## Real world applications
 
-### Example problems
+## Example problems
 
-### Practice problems
+## Practice problems

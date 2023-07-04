@@ -1,11 +1,11 @@
 # Binary Trees
 
-### Introduction to Binary 
+## Introduction to Binary 
 
-### How Binary Trees work
+## How Binary Trees work
 
-### Real world applications
+## Real world applications
 
-### Example problems
+## Example problems
 
-### Practice problems
+## Practice problems
