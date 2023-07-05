@@ -7,7 +7,7 @@ The text book definition of a stack is as follows: "A stack is a **linear data s
 A popular way to remember this concept is the acronym **LIFO** which stand for **"Last In, First Out"**. 
 
 ## How stacks work
-Take a look at the diagram below from [GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20220714004311/Stack-660x566.png).
+Take a look at the diagram below from [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/#).
 
 <br><br>
 <img src="images/stack.drawio2.png">
