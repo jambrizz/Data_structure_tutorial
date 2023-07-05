@@ -8,7 +8,7 @@ A popular way to remember this concept is the acronym **LIFO** which stand for *
 
 ## How stacks work
 Take a look at the diagram below from GeeksforGeeks.
-<img src="/images/stack.drawio2.png">
+<img src="images/stack.drawio2.png">
 ## Real world applications
 
 ## Example Problems
