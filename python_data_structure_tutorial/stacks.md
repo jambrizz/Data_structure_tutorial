@@ -8,10 +8,13 @@ A popular way to remember this concept is the acronym **LIFO** which stand for *
 
 ## How stacks work
 Take a look at the diagram below from [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/#).
-
 <br><br>
 <img src="images/stack.drawio2.png">
 <br><br>
+
+In this diagram you can see that value **"C"** was added by using the common stack operation of **push()** to the top of the stack and when a value was removed **pop()**it was the last value added of **"C"**. Now  let give review a different scenenario, lets say we want to **pop()** value **"B"** from the stack that just had the value of **"C"** added then we would need to **pop()** the value C first then B since we can only remove the last value added to the stack. 
+<br><br>
+A good analogy for how a stack works is say you have a can of pringles and you want to eat a single chip then by design you are forced to eat the top chip in the can and if you wanted to more than just one chip you would have to keep eating the top most chip until you finished all the chips or you decided to stop before reaching the last chip.
 
 ## Real world applications
 
