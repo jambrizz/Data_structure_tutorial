@@ -7,5 +7,7 @@
 ## Real world applications
 
 ## Example problems
+```python
 
+```
 ## Practice problems

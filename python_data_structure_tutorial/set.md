@@ -16,9 +16,7 @@ implementation of a set can be accomplished using a variety of data structures i
 ## Example problems
 
 ```python
-import math
-#test
-print("Hello")
+
 ```
 
 ## Practice problems
