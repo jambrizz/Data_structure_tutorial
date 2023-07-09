@@ -13,10 +13,14 @@ Take a look at the diagram below from [GeeksforGeeks](https://www.geeksforgeeks.
 <br><br>
 
 In this diagram you can see that value **"C"** was added by using the common stack operation of **push()** to the top of the stack and when a value was removed **pop()**it was the last value added of **"C"**. Now  lets review a different scenenario, lets say we want to **pop()** value **"B"** from the stack that just had the value of **"C"** added then we would need to **pop()** the value C first then B since we can only remove the last value added to the stack. 
-<br><br>
+
 A good analogy for how a stack works is, say you have a can of pringles (chips that are packaged in a can instead of a bag) and you want to eat a single chip then by design you are forced to eat the top chip in the can and if you wanted to eat the 4th to the last chip you would need to eat the top chip, 2nd to last and 3rd to last before you can eat the 4th to last chip.
 
-test
+That is how a stack works in a nut shell; however, there are other operations that you can use in a stack which are as follows:
+
+| Operation | What is does |
+| :-------: | :----------- |
+| push()    | Inserts a value to the top of the stack.|
 
 ## Real world applications
 
