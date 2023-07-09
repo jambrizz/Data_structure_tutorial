@@ -1,5 +1,7 @@
 """
-    This is an example of a stack data structure. We will create a stack which will be used as a backpack and we will push items into the backpack and pop items from the backpack. We will also check the top of the stack, check if the stack is empty and check the size of the stack.
+    This is an example of a stack data structure. 
+    We will create a stack which will be used as a backpack and we will push items into the backpack and pop items from the backpack. 
+    We will also check the top of the stack, check if the stack is empty and check the size of the stack.
 """
 #Create a stack using a list.
 def stack():
