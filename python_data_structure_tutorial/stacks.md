@@ -21,6 +21,10 @@ That is how a stack works in a nut shell; however, there are other operations th
 | Operation | What is does |
 | :-------: | :----------- |
 | push()    | Inserts a value to the top of the stack.|
+| pop() | Removes a value from the top of the stack.|
+|top() | Returns the top value or element of the stack.|
+|isEmpty() | Returns true if stack is empty of false if not.|
+|size() | returns the size of the stack |
 
 ## Real world applications
 
