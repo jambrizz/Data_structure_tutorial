@@ -16,20 +16,19 @@ In this diagram you can see that value **"C"** was added by using the common sta
 
 A good analogy for how a stack works is, say you have a can of pringles (chips that are packaged in a can instead of a bag) and you want to eat a single chip then by design you are forced to eat the top chip in the can and if you wanted to eat the 4th to the last chip you would need to eat the top chip, 2nd to last and 3rd to last before you can eat the 4th to last chip.
 
-That is how a stack works in a nut shell; however, there are other operations that you can use in a stack which are as follows:
+That is how a stack works in a nut shell; however, there are other common operations that you can use in a stack for example:
 
 | Operation | What is does |
 | :-------: | :----------- |
 | push()    | Inserts a value to the top of the stack.|
 | pop() | Removes a value from the top of the stack.|
-|top() | Returns the top value or element of the stack.|
+| top() | Returns the value at the top of the stack.|
 |isEmpty() | Returns true if stack is empty of false if not.|
 |size() | returns the size of the stack |
 
 ## Real world applications
 
 ## Example Problems
-```python
-
-```
+Click on the link below to see examples on how to use a stack
+[Stack](/python_data_structure_tutorial/example_stack.py)
 ## Practice problems
