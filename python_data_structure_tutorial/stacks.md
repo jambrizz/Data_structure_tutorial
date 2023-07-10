@@ -4,7 +4,7 @@ The simplest explanation of what a stack is think of it as a line for an amusema
 
 The text book definition of a stack is as follows: "A stack is a **linear data structure** in which insertions and deletions are **allowed only at the end**. This is called the **top of the stack**. 
 
-A popular way to remember this concept is the acronym **LIFO** which stand for **"Last In, First Out"** because of this you have to consider if a stack is the right data structure for what you need to accomplish, so an array may not be the best solution.
+A popular way to remember this concept is the acronym **LIFO** which stand for **"Last In, First Out"** because of this you have to consider if a stack is the right data structure for what you need to accomplish, so a stack may not be the best solution.
 
 ## How stacks work
 Take a look at the diagram below from [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-stack-data-structure-and-algorithm-tutorials/#).
