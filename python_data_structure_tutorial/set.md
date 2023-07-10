@@ -33,6 +33,12 @@ Cars = {"volvo", "ford", "toyota", "chevrolet", "dodge"}
 primeNumbers = {1, 3, 5, 7, 11, 13}
 ```
 
+Other basic methods for sets are as follows:
+
+- Union: This method is used to unite two sets using a union() function. 
+- Intersection: This is used to identify common elements used by two sets where they intersect and this is accomplished by using a intersection() function or using an operator.
+- Difference: This is utilized to identify the differences between two sets usina a difference() function or an operator.
+
 ### Set-Builder Form
 In a Set-Builder Form, elements of a set can also be a statement expressing some kind of relation with the elements.
 
@@ -42,6 +48,6 @@ A = {y: y > 0, y: y < 8, y: y + 3 * 5}
 
 ## Example problems
 
-
+[Set examples](/python_data_structure_tutorial/examples/example_sets.py)
 
 ## Practice problems
