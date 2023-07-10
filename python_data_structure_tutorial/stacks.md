@@ -18,7 +18,7 @@ A good analogy for how a stack works is, say you have a can of pringles (chips t
 
 That is how a stack works in a nut shell; however, there are other common operations that you can use in a stack for example:
 
-| Operation | What is does |
+| Operation | What it does |
 | :-------: | :----------- |
 | push()    | Inserts a value to the top of the stack.|
 | pop() | Removes a value from the top of the stack.|
