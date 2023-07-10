@@ -45,6 +45,5 @@ Since the main reason to use a stack is to easy access and remove the most recen
 - Recursion is a technique that is used by developers to have a function to call itself.
 
 ## Example Problems
-Click on the link below to see examples on how to use a stack
-[Stack](/python_data_structure_tutorial/examples/example_stack.py)
+[Stack Examples](/python_data_structure_tutorial/examples/example_stack.py) Click on the link to see examples on how to use a stack
 ## Practice problems
