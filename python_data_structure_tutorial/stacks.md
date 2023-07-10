@@ -29,25 +29,20 @@ That is how a stack works in a nut shell; however, there are other common operat
 ## Real world applications
 Since the main reason to use a stack is to easy access and remove the most recently added element in a stack, there are some useful situations that it can be used.
 
-1. Back and forward buttons on a web browser:
-
-It is very handy when building websites to be able to go back or foward in between pages. This can be accomplished by creating a stack for **Back** which can be used to track any links in a previously visited page and a stack for **Forward** to track any links to a page we are navigating away from.
+1. Back and forward buttons on a web browser
+- It is very handy when building websites to be able to go back or foward in between pages. This can be accomplished by creating a stack for **Back** which can be used to track any links in a previously visited page and a stack for **Forward** to track any links to a page we are navigating away from.
 
 1. Undo or Redo functionality:
-
-In a text editor like Microsoft Word it is very useful to have the functionality to undo or redo something the user has changed in a document. This can be accomplished similarly be creating a stack to **Undo** something that was just added to the stack and a **Redo** stack to put back what was just undone from the document.
+- In a text editor like Microsoft Word it is very useful to have the functionality to undo or redo something the user has changed in a document. This can be accomplished similarly be creating a stack to **Undo** something that was just added to the stack and a **Redo** stack to put back what was just undone from the document.
 
 1. Memory management for computer programming:
-
-A stack can be used to manage the memory allocation or to track which memory blocks are being used.
+- A stack can be used to manage the memory allocation or to track which memory blocks are being used.
 
 1. Delimeter checking:
-
-Using a stack data structure can be used to keep track of specified delimeters while a string is being parsed.
+- Using a stack data structure can be used to keep track of specified delimeters while a string is being parsed.
 
 1. Recursion in programming:
-
-Recursion is a technique that is used by developers to have a function to call itself.
+- Recursion is a technique that is used by developers to have a function to call itself.
 
 ## Example Problems
 Click on the link below to see examples on how to use a stack
