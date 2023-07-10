@@ -24,6 +24,12 @@ implementation of a set can be accomplished using a variety of data structures i
 
 Set data structures are commonly used is software development in a variety of ways from algorithms, data analysis as well as in databases where their speciality of only allowing unique elements to be added to a set. They are commonly used in two ways the **Rosteer Form** and as a **Set-Builder form**. 
 
+Other basic methods for sets are as follows:
+
+- Union: This method is used to unite two sets using a union() function. 
+- Intersection: This is used to identify common elements used by two sets where they intersect and this is accomplished by using a intersection() function or using an operator.
+- Difference: This is utilized to identify the differences between two sets usina a difference() function or an operator.
+
 ### Roster Form 
 Elements are inside of **"{}"** and all the elements are seperated by commas.
 
@@ -32,12 +38,6 @@ Cars = {"volvo", "ford", "toyota", "chevrolet", "dodge"}
 
 primeNumbers = {1, 3, 5, 7, 11, 13}
 ```
-
-Other basic methods for sets are as follows:
-
-- Union: This method is used to unite two sets using a union() function. 
-- Intersection: This is used to identify common elements used by two sets where they intersect and this is accomplished by using a intersection() function or using an operator.
-- Difference: This is utilized to identify the differences between two sets usina a difference() function or an operator.
 
 ### Set-Builder Form
 In a Set-Builder Form, elements of a set can also be a statement expressing some kind of relation with the elements.
