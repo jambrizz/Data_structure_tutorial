@@ -1,6 +1,6 @@
 # Stacks
 ## What are stacks?
-The simplest explanation of what a stack is think of it as a line for an amusemant park ride. When some one decides to stand in the line there is a designated spot where they are "added". Normally in this situation is the back of the line and the person at the front of the line is the first person to get on the ride or "removed". This is easy to comprehend because we deal with lines often in our lives for example standing in line at the checkout at your local grocery store and stacks are just like that except When you add a value to the stack it is placed at the **"top"** of the stack and when you **remove** a value it is removed from the top.
+The simplest explanation of what a stack is think of it as a 5 gallon drinking water jug that you see in any old office, home, or business. It only has one point of entry the mouth of the jug to add water and if we wanted to take water out it would use the same entry point and it would be the top most water taken out first. This is easy to comprehend because we all have seen 5 gallon water jugs and understand the concept of how they are used. Stacks are like that except When you add a value to the stack it is placed at the **"top"** of the stack and when you **remove** a value it is removed from the top.
 
 The text book definition of a stack is as follows: "A stack is a **linear data structure** in which insertions and deletions are **allowed only at the end**. This is called the **top of the stack**. 
 
