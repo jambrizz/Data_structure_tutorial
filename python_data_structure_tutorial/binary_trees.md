@@ -22,8 +22,11 @@ The node at the very top of the binary tree is called the root. If a tree is emp
 |Size of the entire binary tree|
 
 ## How Binary Trees work
-
-
+The way that binary trees work is by comapring any data that is entered in to a Binary Search Tree to the root node and then determing where to place the data. Take a look at this diagram from geekforgeeks.
+<br><br>
+<img src="/python_data_structure_tutorial/images/BSTSearch.png">
+<br><br>
+The root node has a data value of 8 and the next 2 children have values of 2 and 10. So when a data value is going to be added to the binary search tree it will compare it to the root value of 8. I we want to insert the value of 15 the binary search tree will decided whether the value is greater or lesser than the root value of 8. in this case 15 is larger than 8 so it will be insert to the right of the root node. Then it will be compared to the child node of 10 and decide if it is lesser or greater than 10 in this case it would be greater than 10 so it will be moved further along to the right. Finally 15 will be compared to the child node of 14 and since 15 is greater than 14 it will finally by placed to the right of 14 and it would be considered the leaf node of the bianry search tree. 
 ## Real world applications
 Binary trees are used in many applications including but not limited to:
 - Compilers/ Expression Trees
