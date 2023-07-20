@@ -22,7 +22,7 @@ The node at the very top of the binary tree is called the root. If a tree is emp
 |Size of the entire binary tree|
 
 ## How Binary Trees work
-The way that binary trees work is by comapring any data that is entered in to a Binary Search Tree to the root node and then determing where to place the data. Take a look at this diagram from geekforgeeks.
+The way that binary trees work is by comapring any data that is entered in to a Binary Search Tree to the root node and then determing where to place the data. Take a look at this diagram from geeksforgeeks.
 <br><br>
 <img src="/python_data_structure_tutorial/images/BSTSearch.png">
 <br><br>

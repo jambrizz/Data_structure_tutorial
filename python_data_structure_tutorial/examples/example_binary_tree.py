@@ -16,12 +16,15 @@ class BinarySearchTree:
     def __init__(self):
         self.root = None
         
-    # Create a method to add a node to the tree we created
-    def addNode(self, data):
-        if self.root == None:
-            self.root = self.Node(data)
-        else:
-            self.add_node(data, self.root)
+    # Initialize a method to add a node to the tree
+    def add_node(self, data, node):
+        if data < node.data:
+            if node.left is not None:
+                self.add_node(data, node.left)
+            else:
+                node.left = self.Node(data)
+        
+    
             
     # Create a method to delete a node from the tree we created
     def removeNode(self, key):
@@ -57,3 +60,4 @@ class BinarySearchTree:
         else:
             return 0
         
+

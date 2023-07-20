@@ -6,7 +6,7 @@ adding unique elements to a collection. This is useful when efficiency and organ
 well as when you want to add, remove or query an element in the set.
 
 ## How Sets work
-
+Sets store items unordered, unchangeable and do not allow duplicate items to be inserted. Unordered means that the items do not have a defined order and cannot be referred by an index or key. Unchangeable means that once the set has been created you cannot change the items in the set. However you can remove or add items to the set.
 ## Real world applications
 Sets are useful to store unique values to avoid duplicate data being added to a set. By default, sets
 stores data in a sorted manner which is more efficient than an array. Sets are dynamic so you do not
